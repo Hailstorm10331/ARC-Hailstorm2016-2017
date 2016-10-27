@@ -4,7 +4,7 @@
 *   Motor Controllers:
 *       -MCP0 = Motor controller plugged into port 6 of the core power module
 *       -MCP1 = Motor controller plugged into port 4 of the core power module
-*       -MCP2 = Motro controller plugged into port 3 of the core power module 
+*       -MCP2 = Motor controller plugged into port 3 of the core power module 
 *
 *
 *   Motors:
