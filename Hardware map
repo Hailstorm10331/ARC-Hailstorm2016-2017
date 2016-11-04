@@ -2,19 +2,21 @@
 * EDITS WILL BE MADE AS WE GO ALONG
 * Hardware Map
 *   Motor Controllers:
-*       -MCP0 = Motor controller plugged into port 6 of the core power module
-*       -MCP1 = Motor controller plugged into port 4 of the core power module
-*       -MCP2 = Motor controller plugged into port 3 of the core power module 
+*       -MCP1 = Motor controller plugged into port 6 of the core power module
+*       -MCP2 = Motor controller plugged into port 4 of the core power module
+*       -MCP3 = MOtor controller plugged into port 3 of the core power module
+*   Core Device interface:
+*       -CDI1 = Core device interfac plugged into  port 5
 *
 *
 *   Motors:
-*       -MotorFrontL = plugged into motor slot 2 of motor controller 0, front left motor
-*       -MotorFrontR = plugged into motor slot 1 of motor controller 0, front right motor
-*       -MotorBackL = plugged into motor slot  of motor controller 1, back left motor 
-*       -MotorBackR = plugged into motor slot  of motor controller 1, back right motor 
-*       -MotorArm = plugged into motor slot  of motro controller 2, arm motor 
+*       -MotorFrontL = plugged into motor slot 2 of motor controller 1, front left motor
+*       -MotorFrontR = plugged into motor slot 1 of motor controller 1, front right motor
+*       -MotorBackL = plugged into motor slot 2 of motor controller 2, back left motor
+*       -MotorBackR = plugged into motor slot 1 of motor controller 2, back right motor
 *
-*   Servos:
+*
+*   Sensors:
 *       -
 *
 *
