@@ -14,7 +14,7 @@ import com.qualcomm.robotcore.hardware.DcMotorController;
 import com.qualcomm.robotcore.hardware.DcMotorSimple;
 
 /**
- * Created by citruseel on 10/26/2016.
+ * Created by citruseel on Joshua Krinsky 2/3/17
  */
 @Autonomous(name="Basic Linear Autonomous", group="Autonomous")
 
@@ -60,10 +60,9 @@ public class ARC_hailStorm2016_2017 extends LinearOpMode {
 
         waitForStart();
 
-        MoveForward(0.5, 2000/*milliseconds*/);
-        MoveLeft(0.5, 2000);
-        MoveRight(.5,2000);
-        MoveBack(.5,2000);
+        MoveForward(1, 2628/*milliseconds*/);
+        MoveLeft(1, 0617);
+        MoveFoward(1,2250);
 
 
     }
